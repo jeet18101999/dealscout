@@ -1,0 +1,4 @@
+﻿anthropic>=1.8
+PySide6>=6.10
+platformdirs>=4.0
+python-dotenv>=1.0
